@@ -1,8 +1,4 @@
-# gamedevspace.github.io
-
-A sample blog creation using Jekyll and Pages
-
-## My Posts
+### My Posts
 
 {% for post in site.posts %}
   <article>
@@ -13,5 +9,3 @@ A sample blog creation using Jekyll and Pages
     </h2>
   </article>
 {% endfor %}
-
-Some more text
